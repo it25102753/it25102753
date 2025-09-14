@@ -1,4 +1,6 @@
 ## Hi there 👋
+Shenol disanayaka - it25102753
+<p align='center'> <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg"> </p>
 
 <!--
 **it25102753/it25102753** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
